@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+div {
+    background-color: greenyellow;
+    width: 300px;
+    padding: 20px 5px 20px 5px;
+    
+    border-top: 5px dashed indigo;
+    border-bottom: 5px dashed indigo;
+    border-left: 5px dashed indigo;
+    border-right: 5px dashed indigo;
+    border-radius: 10px;
+
+    margin-left: 10px;
+    margin-right: 10px;  
+}
+

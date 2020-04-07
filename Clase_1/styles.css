@@ -1,0 +1,15 @@
+#titulo {
+    color: red;
+    /* este es un mensaje */  
+}
+
+.grupo {
+    color: blue;
+}
+
+#imagen_gato {
+    border: green 20px solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
